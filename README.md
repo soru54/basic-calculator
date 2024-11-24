@@ -3,11 +3,14 @@ Make all your calculations in a simple and practical way.
 
 ## Requirements
 • Python3
+
 • a UNIX system
+
 • Superuser privileges
 
 ## Set Up (UNIX Systems)
 1 - Create a file folder (This is where the repository will be cloned)
+
 2 - Clone the repository
 ```bash
   git clone https://github.com/soru54/basic-calculator.git
