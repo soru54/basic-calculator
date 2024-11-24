@@ -4,9 +4,7 @@ Make all your calculations in a simple and practical way.
 ## Requirements
 • Python3
 
-• a UNIX system
-
-• Superuser privileges
+• and a UNIX system
 
 ## Set Up (UNIX Systems)
 1 - Create a file folder (This is where the repository will be cloned)
@@ -15,12 +13,13 @@ Make all your calculations in a simple and practical way.
 ```bash
   git clone https://github.com/soru54/basic-calculator.git
 ```
+
 3 - If necessary, make the file `run.sh` executable.
 ```bash
   chmod +x run.sh
 ```
 ## How to run the program
-Now that you have made the `run.sh` file executable, simply open the terminal in the folder where you cloned the repository and type the following command:
+Now that you have made the file `run.sh` executable, simply open the terminal in the folder where you cloned the repository and type the following command:
 ```bash
   ./run.sh
 ```
